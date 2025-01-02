@@ -9,4 +9,13 @@ height: 100vh;
     position: absolute;
     bottom: 700px;
     left: 50px;
+    height: 150px;
+    border-radius: 22px;
+}
+.playstion-info{
+    position: absolute;
+    bottom: 660px;
+    left: 70px;
+    font-size: 40px;
+    color: white;
 }
