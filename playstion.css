@@ -1,13 +1,15 @@
 body{
     
 }
-.background-image{
+.background-image1{
 width: 100vw;
 height: 100vh;
 }
 .playstionStore{
     position: absolute;
-    bottom: 700px;
+    width: 270px;
+
+    bottom: 710px;
     left: 50px;
     height: 150px;
     border-radius: 22px;
@@ -19,3 +21,23 @@ height: 100vh;
     font-size: 40px;
     color: white;
 }
+
+.background-image2{
+    width: 100vw;
+    height: 100vh;
+    }
+    .FC24{
+        position: absolute;
+        bottom: 710px;
+        left: 370px;
+        height: 150px;
+        border-radius: 22px;
+        
+    }
+    .FC24-info{
+        position: absolute;
+        bottom: 660px;
+        left: 470px;
+        font-size: 40px;
+        color: white;
+    }
