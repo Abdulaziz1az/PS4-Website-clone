@@ -41,3 +41,19 @@ height: 100vh;
         font-size: 40px;
         color: white;
     }
+
+    .Fortnite{
+        position: absolute;
+        bottom: 710px;
+        left: 680px;
+        height: 150px;
+        border-radius: 22px;
+        
+    }
+    .Fortnite-info{
+        position: absolute;
+        bottom: 660px;
+        left: 780px;
+        font-size: 40px;
+        color: white;
+    }
