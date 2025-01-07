@@ -29,7 +29,7 @@ height: 100vh;
     .FC24{
         position: absolute;
         bottom: 710px;
-        left: 370px;
+    left: 370px;
         height: 150px;
         border-radius: 22px;
         
@@ -54,6 +54,22 @@ height: 100vh;
         position: absolute;
         bottom: 660px;
         left: 780px;
+        font-size: 40px;
+        color: white;
+    }
+
+    .b2k25{
+        position: absolute;
+        bottom: 710px;
+        left: 995px;
+        height: 150px;
+        border-radius: 22px;
+        
+    }
+    .b2k25-info{
+        position: absolute;
+        bottom: 660px;
+        left: 1090px;
         font-size: 40px;
         color: white;
     }
