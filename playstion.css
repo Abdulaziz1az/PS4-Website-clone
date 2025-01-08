@@ -73,3 +73,20 @@ height: 100vh;
         font-size: 40px;
         color: white;
     }
+
+    .Spider-man2{
+        position: absolute;
+        bottom: 710px;
+        left: 1315px;
+        height: 150px;
+        border-radius: 22px;
+        
+    }
+    .Spider-man2-info{
+        position: absolute;
+        bottom: 660px;
+        left: 1320px;
+        font-size: 40px;
+        color: white;
+
+    }
