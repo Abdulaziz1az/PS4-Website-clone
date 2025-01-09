@@ -90,3 +90,20 @@ height: 100vh;
         color: white;
 
     }
+
+    .ps4Library{
+        position: absolute;
+        bottom: 710px;
+        left: 1590px;
+        height: 150px;
+        border-radius: 22px;
+        
+    }
+    .ps4Library-man2-info{
+        position: absolute;
+        bottom: 660px;
+        left: 1610px;
+        font-size: 40px;
+        color: white;
+
+    }
